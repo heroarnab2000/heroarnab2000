@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<img align="right" alt="coding" width="500" height="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heroarnab2000&label=Profile%20views&color=0e75b6&style=flat" alt="heroarnab2000" /> </p>
 
