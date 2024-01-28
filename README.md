@@ -1,3 +1,5 @@
+![logo](https://github.com/heroarnab2000/heroarnab2000/blob/main/Arnab%20Das%20banner.gif)
+
 <h1 align="center">Hi 👋, I'm Arnab Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
