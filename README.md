@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heroarnab2000&label=Profile%20views&color=0e75b6&style=flat" alt="heroarnab2000" /> </p>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS**
+- 🌱 I’m currently pursuing Masters in Technology from **NIT Rourkela**
 
 - 💬 Ask me about **React JS, AI & ML, Computer Architecture, TOC**
 
