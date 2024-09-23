@@ -1,7 +1,7 @@
 ![logo](https://github.com/heroarnab2000/heroarnab2000/blob/main/Arnab%20Das%20banner%20new.gif)
 
 <h1 align="center">Hi 👋, I'm Arnab Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="270" height="210" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
